@@ -10,6 +10,7 @@
 3. Write a function describeElements(elements: [Any]) that iterates over the array and prints the type of each element.
 
 ### **Test Coverage**
+Basic Test Cases, No business logic is here
 ![image](https://github.com/Sumit4482/TypeCheck_AndTypeCasting/assets/61246873/b940a8d7-47ee-468b-91f5-530e549c5255)
    
 ### **Output**
